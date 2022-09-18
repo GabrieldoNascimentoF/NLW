@@ -108,14 +108,14 @@ section ul li:hover {
     border: 1px solid #443E54;
 }
 
-/* animation */
+/* ANIMATION */
 
 header div {
     animation: fromTop .6s .3s backwards;
 }
 
 main section {
-    animation: fromBottom .7 2s backwards;
+    animation: fromBottom .7s 2s backwards;
 }
 
 main section:nth-child(1) {
